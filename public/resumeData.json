@@ -3,8 +3,8 @@
     "name":"Oussema Saidane",
     "description":"I am a web development engineer and I use React Js to develop this project ",
     "image":"oussema.jpg",
-    "cv":"cv.pdf",
-    "bio": "I am a 3rd year computer engineering student and web development at Esprit Tunisie. Currently looking for a PFE internship from 1, January 2024.",
+    "cv":"OUSSEMA SAIDANE.pdf",
+    "bio": "I am a 3rd year computer engineering student and web development at Esprit Tunisie. ",
     "contactmessage":"",
     "email": "oussema.saidane@esprit.tn",
     "phone": "+216 56-255-745",
@@ -47,6 +47,13 @@
       {
         "school":"ESPRIT : Private School of Engineering and Technology",
         "lien":"https://esprit.tn/",
+        "degree":"3nd cycle computer engineer web development ",
+        "graduated":"(2023-2024)",
+        "description":"I passed a beautiful year in improving my skills in full-stack development (ReactJS, SpringBoot ...) ."
+      },
+      {
+        "school":"ESPRIT : Private School of Engineering and Technology",
+        "lien":"https://esprit.tn/",
         "degree":"2nd cycle computer engineer web development ",
         "graduated":"(2022-2023)",
         "description":"I passed a beautiful year in improving my skills in full-stack development (ReactJS, SpringBoot ...) ."
@@ -73,7 +80,13 @@
         "description":"I passed a beautiful year in improving my skills in mathematics , physics etc..."
       }
     ],
-    "work":[
+    "work":[ 
+    {
+      "company":"Pfe internship",
+      "title":"intern",
+      "years":"1 December 2023 - 31 may 2024",
+      "description":"I created a recruitment platform based on artificial intelligence which gives us job offers at LEONI and presents the complete recruitment process with a German company (Leoni) which is located in Sousse."
+    },
       {
         "company":"Engineering internship",
         "title":"intern",
@@ -89,17 +102,16 @@
     ],
     "skills":[
       {
-        "name":"ReactJs",
-        "level":"70%"
+        "name":"Spring Boot",
+        "level":"85%"
       },
       {
-        "name":"Spring Boot",
-        "level":"80%"
+        "name":"ReactJs",
+        "level":"75%"
       },
-
       {
         "name":"JAVA",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Html",
@@ -115,12 +127,12 @@
       },
       {
         "name":".NET Core",
-        "level":"50%"
+        "level":"40%"
       },
 
       {
         "name":"Jira",
-        "level":"60%"
+        "level":"50%"
       },
 
 
@@ -130,17 +142,18 @@
       },
       {
         "name":"Angular",
-        "level":"40%"
+        "level":"30%"
       },
       {
         "name":"Python",
-        "level":"20%"
+        "level":"30%"
       }
 
     ]
   },
   "portfolio":{
     "projects": [
+
       {
         "title":"BLC(ReactJS & SpringBoot)",
         "image":"leoni.png"

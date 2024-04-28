@@ -11,12 +11,14 @@ class Portfolio extends Component {
       let projectImage = "images/portfolio/" + projects.image;
 
       return (
+
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
             <Zmage alt={projects.title} src={projectImage} />
             <div style={{ textAlign: "center" }}>{projects.title}</div>
           </div>
         </div>
+        
       );
     });
 
@@ -36,6 +38,14 @@ class Portfolio extends Component {
             </div>
           </div>
         </Fade>
+        <div className="item-wrap">
+            <video controls style={{ maxWidth: "100%" }}>
+              <source src={"images/portfolio/soutenance.mp4"} type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+            <div style={{ textAlign: "center" }}>Plateform PFE</div>
+          </div>
+        
       </section>
     );
   }
