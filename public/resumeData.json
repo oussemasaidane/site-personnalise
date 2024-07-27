@@ -2,9 +2,9 @@
   "main": {
     "name":"Oussema Saidane",
     "description":"I am a web development engineer and I use React Js to develop this project ",
-    "image":"oussema.jpg",
-    "cv":"OUSSEMA SAIDANE.pdf",
-    "bio": "I am a 3rd year computer engineering student and web development at Esprit Tunisie. ",
+    "image":"ouss.jpg",
+    "cv":"oussema_saidane.pdf",
+    "bio": "I am a computer engineer specializing in web development, graduating in July 2024, and I am currently looking for my first job opportunity.",
     "contactmessage":"",
     "email": "oussema.saidane@esprit.tn",
     "phone": "+216 56-255-745",
