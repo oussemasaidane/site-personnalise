@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Fade from "react-reveal";
 class About extends Component {
    handlePrint = () => {
-    const pdf = "CV/oussema_saidane.pdf";
+    const pdf = "CV/OUSSEMA SAIDANE.pdf";
     const newWindow = window.open(pdf, '_blank');
     if (newWindow !== null) {
       newWindow.print();
